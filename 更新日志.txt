@@ -1,0 +1,6 @@
+更新日志Update log
+
+2025.4.22 : 第一次发布了这个系统，此时只是作为了我的基础模板来让我改进
+The first time I released this system, it was just used as my base template for me to improve
+2025.4.27 : 第二次进行更新加入了菜单和注册系统，注册后的代码可以保存到本地的account.txt文件中，并且通过循环函数来验证登录时输入的账号是否正确
+The second update adds a menu and registration system, and the code can be saved to a local account.txt file, and the account number entered when logging in is verified by a round-robin function
